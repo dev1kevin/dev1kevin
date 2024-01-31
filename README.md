@@ -19,7 +19,7 @@ Iniciando aprendizado em:
 <h2>Connect</h2>
 <p>
 <br>
-<a href="www.linkedin.com/in/kevin-lima-9836b21b8">
+<a href="https://www.linkedin.com/in/kevin-lima-9836b21b8/">
   <img width="25px"src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png"/>
 </a> 
 <a href="https://wa.me/5543998351853">
